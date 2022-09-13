@@ -104,6 +104,7 @@ html {
     font-weight: bold;
 }
 
+
 .weather {
     width: 100px;
     height: 60px;
@@ -212,6 +213,14 @@ html {
 .departure-station p:nth-child(3) span,
 .destination-station p:nth-child(3) span {
     font-size: 1.3rem;
+}
+
+.departure-date {
+    padding: 1.5rem 3rem;
+}
+
+.departure-date p span {
+    font-size: 2rem;
 }
 
 .search-btn a:link {
